@@ -1,2 +1,2 @@
-# Techdegree-Project-5
+# Interactive-Photo-Gallery
  An Interactive Photo Gallery
